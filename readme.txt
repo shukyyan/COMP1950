@@ -1,1 +1,0 @@
-COMP1950 Sample Repo for GitHub
